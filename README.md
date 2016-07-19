@@ -23,7 +23,7 @@
   Not necessary, because with the Weekly Deltas there are going to be small fixes but almost for sure with no Xperia Updates, so when you're going to apply the new Delta update the current XOSPApps installed are going to be backuped and restored after the installation.
 
 ##Where can I get them?
-  Right here: https://basketbuild.com/devs/XOSP/XOSPApps
+  Right here: http://downloads.xosp.org
 
 ##NOTES
 
